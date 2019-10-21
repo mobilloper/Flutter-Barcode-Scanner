@@ -2,7 +2,7 @@
 
 A plugin for Flutter apps that adds barcode scanning support for both iOS and Android.
 
-![Demo gif](https://github.com/mobilloper/Flutter-Barcode-Scanner/flutter_barcode_scanning_demo.gif "Demo")
+![Demo gif](https://github.com/mobilloper/Flutter-Barcode-Scanner/flutter_barcode_scanning_demo.gif)
 
 
 ## Try example
@@ -85,4 +85,4 @@ FlutterBarcodeScanner.getBarcodeStreamReceiver("#ff6666", "Cancel", false, ScanM
  
 ### License
 The MIT License (MIT)
-Copyright © 2019 mobilloper
+Copyright Â© 2019 mobilloper
